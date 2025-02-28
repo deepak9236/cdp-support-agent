@@ -12,7 +12,7 @@ A chatbot that can answer "how-to" questions related to four Customer Data Platf
 ### Backend Setup
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/cdp-support-agent.git
+   git clone https://github.com/deepak9236/cdp-support-agent.git
    cd cdp-support-agent
    ```
 
